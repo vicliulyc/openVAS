@@ -1,0 +1,4 @@
+# openVAS
+In this project, I set up a secure Azure network environment with an OpenVAS Vulnerability Management Scanner VM. I developed a purposely vulnerable Windows 10 VM by including outdated software and disabling security controls. Using OpenVAS, I conducted both unauthenticated and credentialed vulnerability scans, analyzing the results to highlight the distinctions between the two methods. After identifying vulnerabilities, I performed remediation and verified successful remediation through follow-up scans. To simulate realistic vulnerability remediation scenarios, I compiled a list of remediable vulnerabilities, ensuring a comprehensive approach to network security.
+
+Skills: Microsoft Azure · Vulnerability Management · Virtual Machines · System Administration · Network Security · Cryptography
